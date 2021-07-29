@@ -21,7 +21,7 @@ body {
     flex-direction: column;
     /* Set the direction of the flexible items inside the <app-wrap> div column order:*/
     min-height: 100vh;
-    background-image: linear-gradient(to bottom, rgba(175, 17, 175, 0.856), rgba(204, 7, 243, 0.6));
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.856), rgb(255, 255, 255));
 }
 
 header {
@@ -31,14 +31,14 @@ header {
     padding: 10px;
     border: #a497bd solid 1.5px;
     border-radius: 10px;
-    background-image: linear-gradient(to bottom, #b30f9d, rgb(153, 13, 153));
+    background-image: linear-gradient(to bottom, #ffffff, rgb(255, 255, 255));
     margin-left: 20px;
     margin-right: 20px;
     font-family: 'Otomanopee One', sans-serif;
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 60px;
-    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 8px 16px 0 rgb(160, 20, 137), 0 6px 20px 0 rgba(0, 0, 0, 0.993);
 }
 
 .recipe-container {
